@@ -5,7 +5,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'replace-this-with-a-secure-key'
 DEBUG = True
 ALLOWED_HOSTS = []
-
+#test
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
